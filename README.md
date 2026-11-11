@@ -1,4 +1,11 @@
-### 👋 Hi there, I'm Vlad
+### Hi, I'm Vlad 👋
 
-- 🔭 I'm currently working on Computer Vision tasks
-- 📫 Send me an email: vv4alekseev@gmail.com
+Senior Machine Learning Engineer working on computer vision for video, 3D medical imaging, and geospatial data, and PhD candidate in Computational Geophysics at UNSW Sydney.
+
+- 🦷 Founding ML engineer at DentalMesh AI: built the AI CBCT analysis service from scratch, now used by orthodontists worldwide
+- 🎥 Led a six-person team that took a school-safety video analytics product from MVP to production
+- 🌏 PhD: deep learning that predicts petrophysical properties from seismic and well-log data
+
+Most of my work is under NDA or in private repositories.
+
+📫 [sirshaar.com](https://sirshaar.com) · [LinkedIn](https://www.linkedin.com/in/vladislav-alekseev/) · vv4alekseev@gmail.com
