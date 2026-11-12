@@ -6,6 +6,4 @@ Senior Machine Learning Engineer working on computer vision for video, 3D medica
 - 🎥 Led a six-person team that took a school-safety video analytics product from MVP to production
 - 🌏 PhD: deep learning that predicts petrophysical properties from seismic and well-log data
 
-Most of my work is under NDA or in private repositories.
-
 📫 [sirshaar.com](https://sirshaar.com) · [LinkedIn](https://www.linkedin.com/in/vladislav-alekseev/) · vv4alekseev@gmail.com
